@@ -1,0 +1,7 @@
+E:\ConLinkedList\ConLinkedList\bin\Debug\ConLinkedList.exe.config
+E:\ConLinkedList\ConLinkedList\bin\Debug\ConLinkedList.exe
+E:\ConLinkedList\ConLinkedList\bin\Debug\ConLinkedList.pdb
+E:\ConLinkedList\ConLinkedList\obj\Debug\ConLinkedList.csprojAssemblyReference.cache
+E:\ConLinkedList\ConLinkedList\obj\Debug\ConLinkedList.csproj.CoreCompileInputs.cache
+E:\ConLinkedList\ConLinkedList\obj\Debug\ConLinkedList.exe
+E:\ConLinkedList\ConLinkedList\obj\Debug\ConLinkedList.pdb
